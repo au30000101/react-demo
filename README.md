@@ -1,4 +1,12 @@
 # Getting Started with Create React App
+The react-dom package provides DOM-specific methods that can be used at the top level of your app and as an escape hatch to get outside of the React model if you need to.
+
+
+## Main modules
+The react-dom package provides DOM-specific methods that can be used at the top level of your app and as an escape hatch to get outside of the React model if you need to. 
+
+https://github.com/xiedfchn/react-ui-library/edit/main/README.md
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
